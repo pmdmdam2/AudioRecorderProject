@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioRecorderProject</string>
+    <string name="grabacion_detenida">La grabación se ha detenido, puede pulsar</string>
+    <string name="comienza_grabacion">Comienza la grabación!</string>
+    <string name="permiso_grabar_denegado">Permiso para grabar audio denegado</string>
+</resources>
